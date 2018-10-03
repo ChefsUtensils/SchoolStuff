@@ -1,6 +1,6 @@
 import kareltherobot.*;
 import java.awt.Color;
-public class BetterRobot extends UrRobot
+public class BetterRobot extends Robot
 {
     public BetterRobot(int street, int avenue, Direction dir, int beepers)
     {
