@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MazeSolver
+comment1.params=
+comment1.target=void\ solveMaze()
+comment2.params=
+comment2.target=void\ spinBot()
+comment3.params=
+comment3.target=void\ countStuff()
+comment4.params=
+comment4.target=void\ turnRight()
+comment5.params=
+comment5.target=void\ turnAround()
+numComments=6
